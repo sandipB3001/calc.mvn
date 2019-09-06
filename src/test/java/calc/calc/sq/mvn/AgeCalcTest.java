@@ -2,8 +2,6 @@ package calc.calc.sq.mvn;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import calc.calc.sq.mvn.*;
-import java.time.DateTimeException;
 
 public class AgeCalcTest {
 
